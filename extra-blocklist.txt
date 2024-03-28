@@ -11,7 +11,10 @@
 !----------------------------------Scam-Websites--------------------------------
 ||re-captha-version-3-16.live
 !----------------------------------Allowed-List---------------------------------
-@@||connect.intuit.com
-@@||intuit.com
-@@||eventbus.intuit.com
-@@||experimentation.us.api.intuit.com
+@@connect.intuit.com
+@@intuit.com
+@@a.intuit.com
+@@api.intuit.com
+@@smx.intuit.com
+@@eventbus.intuit.com
+@@experimentation.us.api.intuit.com
