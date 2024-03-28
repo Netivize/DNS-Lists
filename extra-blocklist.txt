@@ -11,5 +11,6 @@
 !----------------------------------Scam-Websites--------------------------------
 ||re-captha-version-3-16.live
 !----------------------------------Allowed-List---------------------------------
-@@connect.intuit.com$document
-@@intuit.com$document
+@@connect.intuit.com
+@@intuit.com
+@@eventbus.intuit.com
