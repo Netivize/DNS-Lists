@@ -6,7 +6,10 @@
 ! Homepage: https://netivize.com/
 ! Contribute: https://github.com/Netivize/DNS-Lists/issues
 ! License: https://mit-license.org/
-! Description: This filter disables extra malware/scam/ad domains that passed other lists
+! Description: This filter disables extra malware/scam/ad domains that pass other lists
 !-------------------------------------------------------------------------------
 !----------------------------------Scam-Websites--------------------------------
 ||re-captha-version-3-16.live
+!----------------------------------Allowed-List---------------------------------
+@@connect.intuit.com$document
+@@intuit.com$document
