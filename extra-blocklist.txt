@@ -12,3 +12,4 @@
 ||re-captha-version-3-16.live
 !----------------------------------Allowed-List---------------------------------
 @@||intuit.com^$document
+@@||awstrack.me^$document
