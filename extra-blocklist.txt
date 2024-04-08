@@ -13,4 +13,4 @@
 !----------------------------------Allowed-List---------------------------------
 @@||intuit.com^$document
 @@||awstrack.me^$document
-@@||ads.google.com/aw/express/^$document
+@@||google.com^$document
