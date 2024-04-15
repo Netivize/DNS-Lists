@@ -16,3 +16,6 @@
 @@||awstrack.me^$document
 @@||google.com^$document
 @@||otterbox.com^$document
+@@||schema.org^$document
+@@||tiqcdn.com^$document
+@@||dynamicyield.com^$document
