@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: Extra Blocklist
 ! Expires: 1 days (update frequency)
-! Version: 10
-! Last modified: 26 June 2024
+! Version: 11
+! Last modified: 23 July 2024
 ! Homepage: https://netivize.com/
 ! Contribute: https://github.com/Netivize/DNS-Lists/issues
 ! License: https://mit-license.org/
@@ -29,3 +29,7 @@
 @@||split.io^$document
 @@||msn.com^$document
 @@||linkedin.com^$document
+!----------------------------------Blocked-List----------------------------------
+||adobe.io
+||adobegenuine.com
+||adobestats.io
