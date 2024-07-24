@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! Title: Extra Blocklist
 ! Expires: 1 days (update frequency)
-! Version: 13
+! Version: 14
 ! Last modified: 24 July 2024
 ! Homepage: https://netivize.com/
 ! Contribute: https://github.com/Netivize/DNS-Lists/issues
@@ -17,6 +17,7 @@
 @@||intuit.com^$document
 @@||awstrack.me^$document
 @@||google.com^$document
+@@||googleadservices.com^$document
 @@||otterbox.com^$document
 @@||schema.org^$document
 @@||tiqcdn.com^$document
