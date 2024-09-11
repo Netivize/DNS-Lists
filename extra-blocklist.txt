@@ -2,7 +2,7 @@
 ! Title: Extra Blocklist
 ! Expires: 1 days (update frequency)
 ! Version: 18
-! Last modified: 14 August 2024
+! Last modified: 11 September 2024
 ! Homepage: https://netivize.com/
 ! Contribute: https://github.com/Netivize/DNS-Lists/issues
 ! License: https://mit-license.org/
@@ -34,6 +34,8 @@
 @@||hubspotlinks.com^$document
 @@||forestrytrader.ca^$document
 @@||canforcontractor.com^$document
+@@||pstmrk.it^$document
+@@||compass-app.com^$document
 !----------------------------------Blocked-List----------------------------------
 ||adobe.io
 ||adobegenuine.com
